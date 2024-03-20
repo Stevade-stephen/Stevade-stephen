@@ -1,6 +1,6 @@
-- 👋 Hi there, I’m Stephen Adehor
+- 👋 Hi there, I am Stephen Adehor
 - 👀 I’m interested in solving problems with technologies
-- 🌱 I’m currently working with Java and also learning PHP
+- 🌱 I’m currently working with Java
 - 💞️ I’m looking to collaborate on projects that solve problems for people in the world
 - 📫 Reach me via email at stevade.stephen@gmail.com so we can colaborate.
 
